@@ -1,6 +1,6 @@
 var _cloudUrl = "http://www.chessdb.cn/query/?";
 var _cloudBackUpUrl = 'http://www.voo0.com/yunku/?';
-var _ladderUrl = "http://www.xn--b1v5bx13mg3i.xn--kpry57d/?";
+var _ladderUrl = "http://www.chessladder.rf.gd/?";
 var _chessDbUrl = "https://pragmatic-byway-242913.appspot.com/chess.php";
 var _BoardScale = [0.7, 0.85, 1, 1.2, 1.4];
 var _chessboard;
